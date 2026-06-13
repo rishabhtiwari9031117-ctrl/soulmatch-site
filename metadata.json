@@ -1,0 +1,6 @@
+{
+  "name": "SoulMatch Matrimony",
+  "description": "Find your perfect life partner on SoulMatch Matrimony. A modern, elegant, and secure matrimonial platform featuring advanced search, compatibility matching, and secure communication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
